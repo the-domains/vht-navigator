@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.virtualhold.com/Navigator'
 title: Navigator
-datePublished: '2016-07-16T18:12:39.752Z'
-dateModified: '2016-07-16T18:12:17.606Z'
+datePublished: '2016-07-16T18:18:19.299Z'
+dateModified: '2016-07-16T18:12:22.524Z'
 starred: false
 sourcePath: _posts/2016-07-16-navigator.md
 inFeed: true
