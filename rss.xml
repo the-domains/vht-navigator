@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[VHT Navigator]]></title>
         <description><![CDATA[VHT Navigator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vht-navigator/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 18:13:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 18:18:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vht-navigator/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Navigator]]></title>
-            <description><![CDATA[<article><h1>Navigator</h1><p>VHT Navigator™ is a scalable, customer outcome management software solution that captures and analyzes customer-specific activity, navigating effortless customer interaction and desired outcomes for customers and organizations. Brands using Navigator address disconnected, cross-channel customer experiences by connecting key moments and identifying real-time opportunities to guide customers as they move across channels over time in search of the outcomes they need.</p><img src="http://www.virtualhold.com/wp-content/themes/VHT2014/images/logo.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Navigator</h1><p>VHT Navigator™ is a scalable, customer outcome management software solution that captures and analyzes customer-specific activity, navigating effortless customer interaction and desired outcomes for customers and organizations. Brands using Navigator address disconnected, cross-channel customer experiences by connecting key moments and identifying real-time opportunities to guide customers as they move across channels over time in search of the outcomes they need.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c01bc88c33a2078a398b9e5c6c6712ac/croprotate.png?cropheight=108&cropwidth=336&degrees=0&input=http%3A%2F%2Fwww.virtualhold.com%2Fwp-content%2Fthemes%2FVHT2014%2Fimages%2Flogo.png&x=1&y=1"></article>]]></description>
+            <link>http://www.virtualhold.com/Navigator</link>
+            <guid isPermaLink="false">3de999cd-7e1a-4d20-b410-b4dd616597cf</guid>
+            <pubDate>Sat, 16 Jul 2016 18:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navigator]]></title>
+            <description><![CDATA[<article><h1>Navigator</h1><p>VHT Navigator™ is a scalable, customer outcome management software solution that captures and analyzes customer-specific activity, navigating effortless customer interaction and desired outcomes for customers and organizations. Brands using Navigator address disconnected, cross-channel customer experiences by connecting key moments and identifying real-time opportunities to guide customers as they move across channels over time in search of the outcomes they need.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c01bc88c33a2078a398b9e5c6c6712ac/croprotate.png?cropheight=108&cropwidth=336&degrees=0&input=http%3A%2F%2Fwww.virtualhold.com%2Fwp-content%2Fthemes%2FVHT2014%2Fimages%2Flogo.png&x=1&y=1"></article>]]></description>
             <link>http://www.virtualhold.com/Navigator</link>
             <guid isPermaLink="false">d50fc643-dcab-45d1-9c9e-88ccc171f943</guid>
             <pubDate>Sat, 16 Jul 2016 18:12:39 GMT</pubDate>
