@@ -1,0 +1,14 @@
+layout_spectrum: 0.3634146526455879
+typography_spectrum: 0.37236547702923417
+color:
+  brandStrength: 0.7549156756140292
+  lightness: 0.18978819716721773
+  saturation: 0.8249673782847822
+  rhythmicContrast: 0.19695185823366046
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: VHT Navigator
