@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VHT Navigator]]></title>
+        <description><![CDATA[VHT Navigator]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jul 2016 18:13:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Navigator]]></title>
+            <description><![CDATA[<article><h1>Navigator</h1><p>VHT Navigator™ is a scalable, customer outcome management software solution that captures and analyzes customer-specific activity, navigating effortless customer interaction and desired outcomes for customers and organizations. Brands using Navigator address disconnected, cross-channel customer experiences by connecting key moments and identifying real-time opportunities to guide customers as they move across channels over time in search of the outcomes they need.</p><img src="http://www.virtualhold.com/wp-content/themes/VHT2014/images/logo.png"></article>]]></description>
+            <link>http://www.virtualhold.com/Navigator</link>
+            <guid isPermaLink="false">d50fc643-dcab-45d1-9c9e-88ccc171f943</guid>
+            <pubDate>Sat, 16 Jul 2016 18:12:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
